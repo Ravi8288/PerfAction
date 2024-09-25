@@ -1,6 +1,4 @@
 #!/bin/sh
-# Author: NaveenKumar Namachivayam
-# Website: www.qainsights.com
 # Purpose: Install JMeter Plugins
 
 # Download CMDRunner
