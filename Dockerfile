@@ -1,7 +1,5 @@
 FROM alpine:3.18
-
 LABEL Description="Apache JMeter Dockerfile for GitHub Actions with JMeter Plugins"
-
 ENV JMETER_VERSION "5.6.3"
 ENV JMETER_HOME "/opt/apache/apache-jmeter-${JMETER_VERSION}"
 ENV JMETER_BIN "${JMETER_HOME}/bin"
